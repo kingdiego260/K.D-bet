@@ -1,0 +1,6 @@
+{
+  "name": "NaijaBet Invest & Speculate",
+  "description": "The ultimate high-stakes sport-betting and speculative 'investment' simulator. Build slips, analyze mock charts, place bets, and experience the hilarious thrill of high-odds sports prediction and inevitable high-loss ratios, guided by Baba Blue, our AI Betting Guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
